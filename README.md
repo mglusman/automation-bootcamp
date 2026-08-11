@@ -5,8 +5,12 @@ First change in feature/readme branch
 Login completed
 Profile completed
 Search started
+Top menu Search
 Search finished
 Search feature - Developer A
 Search feature - Developer B
 Search feature updated - Developer B
+
+
+
 
