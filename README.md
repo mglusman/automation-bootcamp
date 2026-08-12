@@ -6,3 +6,4 @@ Login completed
 Profile completed
 Merge demo - started
 Merge demo - feature
+Merge demo - completed
