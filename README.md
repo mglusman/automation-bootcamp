@@ -5,3 +5,4 @@ First change in feature/readme branch
 Login completed
 Profile completed
 Merge demo - started
+Merge demo - feature
