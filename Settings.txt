@@ -1,4 +1,9 @@
 Settings
 Language:
+English
+Spanish
+French
+Italian
+AD (Audio description)
 Subtitles:
 Parental control:
