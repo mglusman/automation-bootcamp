@@ -2,3 +2,8 @@ Settings
 Language:
 Subtitles:
 Parental control:
+PG-3
+PG-7
+PG-12
+PG-16
+PG-18
