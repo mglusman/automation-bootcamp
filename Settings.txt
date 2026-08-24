@@ -1,0 +1,23 @@
+Settings
+
+Language:
+English
+Spanish
+French
+Italian
+AD (Audio description)
+
+Subtitles:
+English
+Spanish
+French
+Italian
+SDH (*Subtitles for the Deaf and Hard-of-Hearing*)
+
+Parental control:
+PG-3
+PG-7
+PG-12
+PG-16
+PG-18
+
